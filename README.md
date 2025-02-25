@@ -1,32 +1,29 @@
-****JavaScript Problem Statements with Solution************
+JavaScript Problem Statements with Solutions
+Problem 1: Magic Array (Algorithm)
+You are given a sorted array of integers (ARR) and a magic number X. The array is considered a magic array if the sum of any two numbers in it equals X.
 
-**Problem 1 (Algorithm)**: You are given a sorted array of integers (ARR) 
-and magic number X. The array is a magic array if sum of two numbers is
-X. You need to return (Boolean) whether the array is magic array or not.
-The array can have upto 10^6 elements.
+🔹 Task: Return a Boolean indicating whether the array is a magic array or not.
+🔹 Constraints: The array can have up to 10⁶ elements.
 
-**Problem 2 (Object Oriented Design Principles):** Design a game of 
-snake and ladder. As a player, I should be able to:
-1. See the current state of the board
-2. Roll a dice
-3. See the position of all players participating in the game.(There can be 
-more than 1 player.)
+Problem 2: Snake and Ladder (Object-Oriented Design Principles)
+Design a Snake and Ladder Game with the following functionalities:
+✅ See the current state of the board
+✅ Roll a dice 🎲
+✅ See the position of all players participating in the game (More than one player can participate)
 
-**Problem 3 (Promise Time Limit):**
-Link to details about the problem: 
-https://leetcode.com/problems/promise-time-limit/description/
+Problem 3: Promise Time Limit
+🔗 Problem Details: LeetCode - Promise Time Limit
 
-**Problem 4 (Memoize – Algorithm and Data Structure):**
-Link to details about the problem: 
-https://leetcode.com/problems/memoize/description/
-This GitHub repository, "JavaScript_Solutions", contains a collection of JavaScript solutions to various programming problems. The project is built with a modular and well-documented approach, and it includes various test cases to ensure the correctness of the solutions.
+Problem 4: Memoization (Algorithm & Data Structure)
+🔗 Problem Details: LeetCode - Memoize
 
-**Main Function Points**
+About the Repository: "JavaScript_Solutions"
+This repository contains JavaScript solutions to various programming problems. The project follows a modular and well-documented approach, with test cases to ensure correctness.
 
-Provides solutions to different programming problems using JavaScript
-Follows a modular and well-documented approach
-Includes various test cases to ensure the correctness of the solutions
+🚀 Main Features:
+✅ Provides solutions to different JavaScript programming challenges
+✅ Follows a structured, modular, and well-documented approach
+✅ Includes test cases to validate the correctness of the solutions
 
-**Technology Stack**
-
+🛠️ Technology Stack:
 JavaScript
