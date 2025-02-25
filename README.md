@@ -1,4 +1,4 @@
-**JavaScript Problem Statements with Solution**
+****JavaScript Problem Statements with Solution************
 
 **Problem 1 (Algorithm)**: You are given a sorted array of integers (ARR) 
 and magic number X. The array is a magic array if sum of two numbers is
